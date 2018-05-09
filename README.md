@@ -21,3 +21,7 @@ Yarn是npm的一个备选替代性方案。由Facebook于2016年推出。
 * yarn add react-icons
 * yarn add react-router-bootstrap
 
+* yarn add express 
+* yarn add body-parser 
+* yarn add mongoose
+
